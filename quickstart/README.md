@@ -77,5 +77,52 @@ Work 추가 창에 Work 이름을 입력합니다
 **3. Action 생성**
 
 왼쪽의 Work이름 혹은  Work 캔버스에 마우스 우클릭을 합니다. \
-**Work 추가** 를 클릭합니다
+**Action 추가** 를 클릭합니다
 
+<div align="left"><figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Action 추가 창에서 **Action 및 Device 추가** 선택합니다&#x20;
+
+Device Name을 입력합니다
+
+<div align="left"><figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure></div>
+
+프리셋에서 원하는 Action을 선택합니다&#x20;
+
+개수를 입력합니다&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
+
+확인을 눌러 생성합니다&#x20;
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**4. 시뮬레이션 돌리기**
+
+우측 상단에 설정 창에서 시뮬레이션을 클릭합니다&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
+
+시뮬레이션 설정에서 시뮬레이션 배속 등을 설정 할 수 있습니다.&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure></div>
+
+상단바에서 초기화 버튼을 누른 후 시작 버튼을 누릅니다.&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure></div>
+
+Start 버튼을 클릭합니다.&#x20;
+
+<div align="left"><figure><img src="../.gitbook/assets/스크린샷 2026-01-12 112200.png" alt=""><figcaption></figcaption></figure></div>
+
+
+
+하단의 시뮬레이션 창에서 각 work의 Aciton들이 어떻게 활동했는지를 확인 할 수 있습니다.&#x20;
+
+<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
