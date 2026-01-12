@@ -3,7 +3,7 @@
 ## Sequence Control Editor 다운로드
 
 {% hint style="success" %}
-먼저 아래의 페이지에서 DS를 다운로드 후 설치해주세요.
+먼저 아래의 페이지에서 소프트웨어를다운로드 후 설치해주세요.
 {% endhint %}
 
 {% embed url="http://dualsoft.co.kr/download/" %}
