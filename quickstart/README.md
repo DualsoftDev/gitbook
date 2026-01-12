@@ -187,6 +187,6 @@ Start 버튼을 클릭합니다.&#x20;
 
 <div align="left"><figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure></div>
 
-시뮬레이션 결과 내보내기에서 원하는 출력형식, 포함 항목, 시간 범위를 선택 후 저장합니다.
+시뮬레이션 결과 내보내기를 통해 시뮬레이션 결과에 대한 데이터 및 시각화를 할 수 있습니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure></div>
