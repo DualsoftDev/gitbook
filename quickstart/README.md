@@ -27,11 +27,11 @@ Windows 디펜더에서 보호 알림이 뜨면 \[추가 정보]클릭 후 실�
 
 Sequence Control Editor를 실행합니다.
 
-새로 만들기를 클릭합니다&#x20;
+새로 만들기를 클릭합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-프로젝트 명을 입력합니다&#x20;
+프로젝트 명을 입력합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -43,12 +43,12 @@ Sequence Control Editor를 실행합니다.
 
 왼쪽의 프로젝트 이름 또는  프로젝트 캔버스에 마우스 우클릭을 합니다.&#x20;
 
-**Flow 추가**를 클릭합니다 \
+**Flow 추가**를 클릭합니다. \
 ![](<../.gitbook/assets/image (7).png>)
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-Flow 추가 창에 Flow 이름을 입력합니다
+Flow 추가 창에 Flow 이름을 입력합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -66,7 +66,7 @@ Flow 추가 창에 Flow 이름을 입력합니다
 
 
 
-Work 추가 창에 Work 이름을 입력합니다
+Work 추가 창에 Work 이름을 입력합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -77,7 +77,7 @@ Work 추가 창에 Work 이름을 입력합니다
 **3. Action 생성**
 
 왼쪽의 Work이름 혹은  Work 캔버스에 마우스 우클릭을 합니다. \
-**Action 추가** 를 클릭합니다
+**Action 추가** 를 클릭합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -85,19 +85,19 @@ Work 추가 창에 Work 이름을 입력합니다
 
 
 
-Action 추가 창에서 **Action 및 Device 추가** 선택합니다&#x20;
+Action 추가 창에서 **Action 및 Device 추가**를  선택합니다.&#x20;
 
-Device Name을 입력합니다
+Device Name을 입력합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure></div>
 
-프리셋에서 원하는 Action을 선택합니다&#x20;
+프리셋에서 원하는 Action을 선택합니다.&#x20;
 
-개수를 입력합니다&#x20;
+개수를 입력합니다.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure></div>
 
-확인을 눌러 생성합니다&#x20;
+확인을 눌러 생성합니다.&#x20;
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -105,7 +105,7 @@ Device Name을 입력합니다
 
 **4. 시뮬레이션 돌리기**
 
-우측 상단에 설정 창에서 시뮬레이션을 클릭합니다&#x20;
+우측 상단에 설정 창에서 시뮬레이션을 클릭합니다.&#x20;
 
 <div align="left"><figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
 
@@ -123,6 +123,6 @@ Start 버튼을 클릭합니다.&#x20;
 
 
 
-하단의 시뮬레이션 창에서 각 work의 Aciton들이 어떻게 활동했는지를 확인 할 수 있습니다.&#x20;
+하단의 시뮬레이션 창에서 각 work 및 Action의 활동 시간을 확인 할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
