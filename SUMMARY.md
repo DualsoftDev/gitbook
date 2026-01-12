@@ -2,9 +2,10 @@
 
 * [DUALSOFT®](README.md)
 * [빠른시작](quickstart/README.md)
-  * [DS 다운로드](quickstart/ds-download.md)
-  * [DS PPT사용 방법](quickstart/fast-guide.md)
-  * [동영상](quickstart/video.md)
+  * [이전 프로그램(PPT)](quickstart/ppt/README.md)
+    * [DS 다운로드](quickstart/ppt/ds-download.md)
+    * [DS PPT사용 방법](quickstart/ppt/fast-guide.md)
+    * [동영상](quickstart/ppt/video.md)
 
 ## 매뉴얼 <a href="#manual" id="manual"></a>
 

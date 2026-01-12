@@ -9,7 +9,7 @@
 * 색상 구분을 통해 현재 상태를 직관적으로 파악
 * 반복되는 비정상 패턴이나 병목을 조기에 인지 가능
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🧭 주요 화면 구성
 
