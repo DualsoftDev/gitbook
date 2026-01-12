@@ -2,11 +2,9 @@
 
 <figure><img src="../../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## 연결상태
 
-상단 설정에서 opc 서버와의연결성  공 여부를 표시합니다.
+상단 설정에서 opc 서버와의연결성 공 여부를 표시합니다.
 
 <div><figure><img src="../../../../.gitbook/assets/연결성공.png" alt=""><figcaption><p>연결성공</p></figcaption></figure> <figure><img src="../../../../.gitbook/assets/연결실파.png" alt=""><figcaption><p>연결실패</p></figcaption></figure></div>
 
@@ -20,9 +18,7 @@
 
 패널의 \[설정창]을 클릭해서 Settings 창을 활성화할 수 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## opc 재연결
 

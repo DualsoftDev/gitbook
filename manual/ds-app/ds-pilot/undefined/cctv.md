@@ -6,7 +6,7 @@
 센서/기기 상태, 제어 신호, 포지션 정보 등을 **영상 위에 텍스트 및 그래픽으로 오버레이**하여\
 공정 흐름과 장비 상태를 시각적으로 통합 파악할 수 있도록 지원하는 기능입니다.
 
-<figure><img src="../../../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (129) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

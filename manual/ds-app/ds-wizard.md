@@ -4,10 +4,8 @@ icon: hat-witch
 
 # DS WIZARD 매뉴얼
 
-
-
 {% hint style="info" %}
-#### PLC 프로그램으로부터 디지털 공법 모델을 자동으로 생성하는 DS 마법사 사용 방법을 안내합니다.
+**PLC 프로그램으로부터 디지털 공법 모델을 자동으로 생성하는 DS 마법사 사용 방법을 안내합니다.**
 {% endhint %}
 
 > DS 마법사는 PLC 프로그램을 기반으로 DS 언어(DUALSOFT 시스템 언어)로 자동 변환하여 디지털 트윈 모델을 생성하는 도구입니다.
@@ -47,9 +45,7 @@ icon: hat-witch
 
 > DS 마법사는 PLC 프로그램을 기반으로 DS 언어(DUALSOFT 시스템 언어)로 자동 변환하여 디지털 트윈 모델을 생성하는 도구입니다.
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
@@ -88,11 +84,11 @@ icon: hat-witch
 
 * 위 그룹 시각화 화면에서 데이터 보기 체크박스를 활성화하면, 디바이스 그룹 및 태그 정보를 표 형태로 상세하게 확인할 수 있습니다.
 
-#### 📋  주요 구성 항목
+#### 📋 주요 구성 항목
 
 <table><thead><tr><th width="225" align="center">항목</th><th align="center">설명</th></tr></thead><tbody><tr><td align="center"><strong>디바이스 TAG 수</strong></td><td align="center">현재 불러온 태그 총 개수 (예: <code>9</code>)</td></tr><tr><td align="center"><strong>설정 그룹 수</strong></td><td align="center">사용자가 수동으로 지정한 그룹 수 (예: <code>10</code>)</td></tr><tr><td align="center"><strong>자동 그룹 수</strong></td><td align="center">분석된 결과에 따라 자동 분류된 그룹 수 (예: <code>5</code>)</td></tr><tr><td align="center"><strong>표 구성</strong></td><td align="center">Group, Name, Address 컬럼으로 구성된 디바이스 테이블 표시</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (112) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -144,75 +140,67 @@ icon: hat-witch
 
 ## 🧩 UserImport
 
-#### 📤 UserImport를 위한 `.csv`파일 저장 방법&#x20;
+#### 📤 UserImport를 위한 `.csv`파일 저장 방법
 
-1.  **DualSoft** 사이트에서 **DS import sample.xlsx** 다운&#x20;
+1.  **DualSoft** 사이트에서 **DS import sample.xlsx** 다운
 
     * **dualsoft.com**에 접속하여 상단의 \[다운로드] 클릭 합니다.
     * 파일 목록 창에서 \[PptAddIn Import Sample] 클릭 합니다.
     * 하위 경로의 **DS import sample.xlsx** 파일을 다운 받습니&#xB2E4;**.**
 
     <figure><img src="../../.gitbook/assets/dualsoft_site_dl_point.png" alt=""><figcaption></figcaption></figure>
-
-
-
 2. **DS import sample.xlsx** 편집
 
-* **DS import sample.xlsx**의 양식에 맞춰서 정보를 기입합니다.&#x20;
+* **DS import sample.xlsx**의 양식에 맞춰서 정보를 기입합니다.
 
 <figure><img src="../../.gitbook/assets/엑셀자료.png" alt=""><figcaption></figcaption></figure>
-
-
 
 3. **CSV** 파일로 저장
 
 * \[다른 이름으로 저장] 선택합니다.
-* 파일  경로와 파일 명을 선택한 후 확장자를 `.csv`로 선택한  후 저장합니다.&#x20;
+* 파일 경로와 파일 명을 선택한 후 확장자를 `.csv`로 선택한 후 저장합니다.
 
 <figure><img src="../../.gitbook/assets/csv저장_point.png" alt=""><figcaption></figcaption></figure>
-
-
 
 ## 2️⃣ DS Wizard 실행 방법
 
 ### ⓵ Step 1/4 – DS 마법사 실행
 
 1. **PowerPoint를 실행한 후**, 상단 메뉴에서\
-   &#xNAN;**\[추가 기능] > \[Ds Tools] > \[Utils] > \[DS Wizard]** 를 클릭합니다.
+   \&#xNAN;**\[추가 기능] > \[Ds Tools] > \[Utils] > \[DS Wizard]** 를 클릭합니다.
 2. 아래와 같은 마법사 시작 화면이 나타납니다.
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
 ### ⓶ Step 2/4 – PLC 파일 열기 및 대상 설정
 
-1. **\[PLC 열기]** 버튼 옆의   셀렉트 박스에서 **UserImport** 선택합니다.\
+1. **\[PLC 열기]** 버튼 옆의 셀렉트 박스에서 **UserImport** 선택합니다.\
    \
    ![](../../.gitbook/assets/userimport선택.png)<br>
-2. **\[Import]** 버튼을  클릭하여  저장한  `.csv` 파일을  불러옵니다.\
+2. **\[Import]** 버튼을 클릭하여 저장한 `.csv` 파일을 불러옵니다.\
    ![](../../.gitbook/assets/import_csv.png)\
-   \
-   &#x20;
+   <br>
 3. 선택된 파일이 로드 되면 다음 항목들을 확인합니다:
-   * **타입**&#x20;
-   * **플로우**&#x20;
-   * **작업 영역**&#x20;
-   * **디바이스명**&#x20;
+   * **타입**
+   * **플로우**
+   * **작업 영역**
+   * **디바이스명**
    * **API명령**
-   * **입력 값**&#x20;
-   * **출력 값**&#x20;
+   * **입력 값**
+   * **출력 값**
 
 <figure><img src="../../.gitbook/assets/userimport_자료 (1).png" alt=""><figcaption></figcaption></figure>
 
-💡 `.csv`파일은 "**DS import sample.xlsx**" 에서 주어진 양식에 맞게 저장한 뒤 불러와야 합니다&#x20;
+💡 `.csv`파일은 "**DS import sample.xlsx**" 에서 주어진 양식에 맞게 저장한 뒤 불러와야 합니다
 
 🔽 \[Next >] 버튼을 클릭합니다.
 
-### 📘 보조 단계 - Wizard 내에서 데이터 추가/삭제/수정 하기&#x20;
+### 📘 보조 단계 - Wizard 내에서 데이터 추가/삭제/수정 하기
 
 * 데이터를 추가 하고 싶다면 해당 표의 빈 행에 데이터를 추가 할 수 있습니다.
-* 수정하고 싶은 부분을 클릭 한 후 수정 할 수 있습니다.&#x20;
+* 수정하고 싶은 부분을 클릭 한 후 수정 할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/wizardAdd.png" alt=""><figcaption></figcaption></figure>
 
@@ -220,31 +208,25 @@ icon: hat-witch
 
 <figure><img src="../../.gitbook/assets/행삭제1 (1).png" alt=""><figcaption></figcaption></figure>
 
-* 우클릭 후 **\[csv저장]**&#xC744; 클릭하면 변경된 부분이 반영된 `.csv`파일을 저장 할 수 있습니다&#x20;
+* 우클릭 후 **\[csv저장]**&#xC744; 클릭하면 변경된 부분이 반영된 `.csv`파일을 저장 할 수 있습니다
 
 <figure><img src="../../.gitbook/assets/위자드csv저장1 (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### ⓷ Step 3/4 – 그룹 시각화 및 수량 입력
 
-1. 불러온 PLC 프로그램의 출력 변수를 기반으로 **자동 그룹 분석 결과**가 디바이스 그룹 및 태그 정보를 표 형태로 상세하게 확인할 수 있습니다&#x20;
+1. 불러온 PLC 프로그램의 출력 변수를 기반으로 **자동 그룹 분석 결과**가 디바이스 그룹 및 태그 정보를 표 형태로 상세하게 확인할 수 있습니다
 2. 사용자 설정에 따라 **\[그룹 수]**&#xB97C; 직접 입력하거나 자동 설정 값을 유지합니다.
 
-<figure><img src="../../.gitbook/assets/그룹확인  (5).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/그룹확인  (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 🔽 그룹 확인 후 \[Next >] 버튼을 클릭합니다.
 
-### &#x20;📘 보조 단계 – \[이미지 보기] 기능
+### 📘 보조 단계 – \[이미지 보기] 기능
 
-* 위 그룹 표 화면에서 이미지 보기 체크 박스를 활성화하면, 이미지 시각화  형태로 상세하게 확인할 수 있습니다.
+* 위 그룹 표 화면에서 이미지 보기 체크 박스를 활성화하면, 이미지 시각화 형태로 상세하게 확인할 수 있습니다.
 * 시각화 된 색상으로 그룹 경계를 쉽게 확인할 수 있습니다.
 
 <figure><img src="../../.gitbook/assets/이미지시각화 (1).png" alt=""><figcaption></figcaption></figure>
-
-
 
 🔽 Wizard Page Title에서는 바로 Next> 버튼을 클릭하여 넘어갑니다.
 
@@ -252,7 +234,7 @@ icon: hat-witch
 
 ⓵ 마법사 완료 화면에서 다음 항목을 확인할 수 있습니다:
 
-* 그룹 수, 디바이스 수, 출력 수, 전체 TAG 수&#x20;
+* 그룹 수, 디바이스 수, 출력 수, 전체 TAG 수
 * 생성된 PPT 파일 경로
 
 ⓶ **\[Finish]** 버튼을 클릭하여 결과 파일을 생성합니다.

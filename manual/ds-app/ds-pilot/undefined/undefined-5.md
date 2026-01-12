@@ -9,7 +9,7 @@
 * **얼마나 오랫동안 대기했는지** (Waiting Time)를 구분하여
 * 병목 현상이 발생하는 구간을 쉽게 파악할 수 있습니다.
 
-<figure><img src="../../../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (124) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -15,6 +15,7 @@
   * [Case3 : Arrow 인과 연결과 Bit 이중성](manual/ds-modeling/case3-arrow-bit.md)
   * [Case4 : ApiCall → Tag → ApiDef](manual/ds-modeling/case4-apicall-tag-apidef.md)
 * [DS 애플리케이션](manual/ds-app/README.md)
+  * [DS Sequence Control Editor 매뉴얼](manual/ds-app/ds-sequence-control-editor.md)
   * [DS PPT 매뉴얼](manual/ds-app/ds-ppt/README.md)
     * [DS 언어 기초](manual/ds-app/ds-ppt/ds/README.md)
       * [사용자 인터페이스](manual/ds-app/ds-ppt/ds/undefined.md)
