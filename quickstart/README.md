@@ -23,10 +23,59 @@ Windows 디펜더에서 보호 알림이 뜨면 \[추가 정보]클릭 후 실�
 
 ## 빠른 사용방법
 
+**1. 프로젝트 생성**
+
 Sequence Control Editor를 실행합니다.
 
+새로 만들기를 클릭합니다&#x20;
+
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+프로젝트 명을 입력합니다&#x20;
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**2. Flow 생성**
+
+왼쪽의 프로젝트 이름 또는  프로젝트 캔버스에 마우스 우클릭을 합니다.&#x20;
+
+**Flow 추가**를 클릭합니다 \
+![](<../.gitbook/assets/image (7).png>)
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+Flow 추가 창에 Flow 이름을 입력합니다
+
+<div align="left"><figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**3. Work 생성**\
+왼쪽의 Flow 이름 혹은  Flow 캔버스에 마우스 우클릭을 합니다. \
+**Work 추가** 를 클릭합니다
+
+<div align="left"><figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Work 추가 창에 Work 이름을 입력합니다
+
+<div align="left"><figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure></div>
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**3. Action 생성**
+
+왼쪽의 Work이름 혹은  Work 캔버스에 마우스 우클릭을 합니다. \
+**Work 추가** 를 클릭합니다
+
